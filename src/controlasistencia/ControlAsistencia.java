@@ -15,6 +15,8 @@ public class ControlAsistencia {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+           String bye= "bye";
     }
     
 }
